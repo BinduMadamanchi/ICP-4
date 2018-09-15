@@ -1,0 +1,4 @@
+#Fri Sep 14 23:26:46 CDT 2018
+base.0=C\:\\Users\\saile\\Desktop\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
